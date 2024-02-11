@@ -1,9 +1,9 @@
 
 <p align="left">
-    <b><a href="https://github.com/katzer/cordova-plugin-printer/blob/example/README.md">SAMPLE APP</a> :point_right:</b>
+    <b><a href="https://github.com/recifra/cordova-plugin-printer/blob/example/README.md">SAMPLE APP</a> :point_right:</b>
 </p>
 
-# Cordova Print Plugin <br> [![npm version](https://badge.fury.io/js/cordova-plugin-printer.svg)](http://badge.fury.io/js/cordova-plugin-printer) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L3HKQCD9UA35A "Donate once-off to this project using Paypal")
+# Cordova Print Plugin <br> [![npm version](https://badge.fury.io/js/cordova-plugin-printer-ci.svg)](http://badge.fury.io/js/cordova-plugin-printer-ci) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L3HKQCD9UA35A "Donate once-off to this project using Paypal")
 
 Plugin for [Cordova][cordova] to print documents, photos, HTML and plain text from iOS, Android and Windows Universal apps.
 
@@ -11,7 +11,7 @@ Plugin for [Cordova][cordova] to print documents, photos, HTML and plain text fr
 cordova.plugins.printer.print('<b>Hello Cordova!</b>');
 ```
 
-<img width="280px" align="right" src="https://github.com/katzer/cordova-plugin-printer/blob/example/images/print.png">
+<img width="280px" align="right" src="https://github.com/recifra/cordova-plugin-printer/blob/example/images/print.png">
 
 ### Supported Printer Interfaces
 
@@ -209,21 +209,21 @@ cordova.plugins.printer.print("Es flattert um die Quelle\nDie wechselnde Libelle
 
 The result will look like this for iOS:
 
-![ttt](https://github.com/katzer/cordova-plugin-printer/blob/example/images/sample.png)
+![ttt](https://github.com/recifra/cordova-plugin-printer/blob/example/images/sample.png)
 
 ## Installation
 
 Execute from the projects root folder:
 
-    $ cordova plugin add cordova-plugin-printer
+    $ cordova plugin add cordova-plugin-printer-ci
 
 Or install a specific version:
 
-    $ cordova plugin add cordova-plugin-printer@VERSION
+    $ cordova plugin add cordova-plugin-printer-ci@VERSION
 
 Or install the latest head version:
 
-    $ cordova plugin add https://github.com/katzer/cordova-plugin-printer.git
+    $ cordova plugin add https://github.com/recifra/cordova-plugin-printer.git
 
 Or install from local source:
 
